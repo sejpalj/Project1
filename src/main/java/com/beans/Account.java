@@ -6,6 +6,7 @@ import javax.persistence.OneToOne;
 
 @Entity(name="account")
 
+//Class
 public class Account {
 	
 	@Id
